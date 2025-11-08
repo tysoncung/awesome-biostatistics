@@ -32,9 +32,13 @@ Tools and resources for designing and analyzing randomized controlled trials.
 - [gsDesign](https://CRAN.R-project.org/package=gsDesign) - Group sequential clinical trial design and analysis.
 - [rpact](https://CRAN.R-project.org/package=rpact) - Confirmatory adaptive clinical trial design and analysis.
 - [TrialSize](https://CRAN.R-project.org/package=TrialSize) - R functions for sample size estimation in clinical trials.
+- [AGSDest](https://CRAN.R-project.org/package=AGSDest) - Estimation in adaptive group sequential trials.
+- [binomialGSD](https://CRAN.R-project.org/package=binomialGSD) - Group sequential designs for binomial data.
+- [OptimalDesign](https://CRAN.R-project.org/package=OptimalDesign) - Optimal experimental designs for clinical trials.
 - [nQuery](https://www.statsols.com/nquery) - Sample size and power calculation software for clinical trials.
 - [PASS](https://www.ncss.com/software/pass/) - Power analysis and sample size software with 1000+ procedures.
 - [East](https://www.cytel.com/products/east) - Software for adaptive and group sequential clinical trial designs.
+- [SeqTrial](https://CRAN.R-project.org/package=SeqTrial) - Sequential trial design and analysis.
 
 ## Survival Analysis
 
@@ -46,7 +50,11 @@ Methods and tools for time-to-event data analysis.
 - [flexsurv](https://CRAN.R-project.org/package=flexsurv) - Flexible parametric survival and multi-state models.
 - [coxme](https://CRAN.R-project.org/package=coxme) - Mixed effects Cox proportional hazards models.
 - [survRM2](https://CRAN.R-project.org/package=survRM2) - Restricted mean survival time analysis for comparing survival curves.
+- [frailtypack](https://CRAN.R-project.org/package=frailtypack) - Frailty models for clustered survival data.
+- [timereg](https://CRAN.R-project.org/package=timereg) - Flexible regression models for survival data.
+- [prodlim](https://CRAN.R-project.org/package=prodlim) - Product-limit estimation for censored event history data.
 - [lifelines](https://lifelines.readthedocs.io/) - Python library for survival analysis including Cox models and AFT models.
+- [scikit-survival](https://scikit-survival.readthedocs.io/) - Survival analysis built on scikit-learn.
 - [Survival Software](http://www.survival-analysis.com/) - Collection of survival analysis programs and resources.
 
 ## Meta-Analysis
@@ -86,6 +94,8 @@ Core statistical software commonly used in biostatistics.
 - [tableone](https://CRAN.R-project.org/package=tableone) - Create "Table 1" to describe baseline characteristics.
 - [gtsummary](https://CRAN.R-project.org/package=gtsummary) - Presentation-ready data summary and analytic result tables.
 - [finalfit](https://CRAN.R-project.org/package=finalfit) - Quickly create elegant regression results tables and plots.
+- [reportRx](https://CRAN.R-project.org/package=reportRx) - Automated reporting of survival analyses.
+- [arsenal](https://CRAN.R-project.org/package=arsenal) - Statistical summaries and tests for clinical trial data.
 
 ### Python Libraries
 
