@@ -147,6 +147,10 @@ Methods for estimating causal effects from observational data.
 - [CausalImpact](https://CRAN.R-project.org/package=CausalImpact) - Causal inference using Bayesian structural time-series models.
 - [dagitty](https://CRAN.R-project.org/package=dagitty) - Graphical analysis of structural causal models using directed acyclic graphs.
 - [DoWhy](https://microsoft.github.io/dowhy/) - Python library for causal inference with explicit assumptions.
+- [tipr](https://CRAN.R-project.org/package=tipr) - Tipping point analyses for unmeasured confounding.
+- [mediation](https://CRAN.R-project.org/package=mediation) - Causal mediation analysis in R.
+- [sensemakr](https://CRAN.R-project.org/package=sensemakr) - Sensitivity analysis tools for regression models.
+- [EValue](https://CRAN.R-project.org/package=EValue) - Sensitivity analysis for unmeasured confounding.
 - [EconML](https://econml.azurewebsites.net/) - Machine learning methods for estimating heterogeneous treatment effects.
 
 ## Missing Data Methods
@@ -198,8 +202,11 @@ Tools for creating reproducible biostatistical analyses.
 - [drake](https://CRAN.R-project.org/package=drake) - Data analysis workflow management system.
 - [workflowr](https://CRAN.R-project.org/package=workflowr) - Organized, reproducible, and shareable research workflow.
 - [Jupyter](https://jupyter.org/) - Interactive notebooks supporting multiple programming languages.
+- [here](https://CRAN.R-project.org/package=here) - Simpler way to find project files.
+- [renv](https://CRAN.R-project.org/package=renv) - Project-specific R dependency management.
 - [Quarto](https://quarto.org/) - Open-source scientific and technical publishing system.
 - [Docker](https://www.docker.com/) - Containerization platform for reproducible computational environments.
+- [Binder](https://mybinder.org/) - Turn Git repositories into interactive notebooks.
 
 ## Learning Resources
 
