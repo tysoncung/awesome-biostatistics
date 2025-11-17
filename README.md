@@ -16,6 +16,7 @@ Biostatistics applies statistical methods to medical and biological research, wi
 - [Causal Inference](#causal-inference)
 - [Missing Data Methods](#missing-data-methods)
 - [Bayesian Biostatistics](#bayesian-biostatistics)
+- [Machine Learning & AI in Biostatistics](#machine-learning--ai-in-biostatistics)
 - [Genomics & Bioinformatics](#genomics--bioinformatics)
 - [Pharmacometrics & PK-PD](#pharmacometrics--pk-pd)
 - [Regulatory & Guidelines](#regulatory--guidelines)
@@ -180,6 +181,29 @@ Bayesian methods and software for medical research.
 - [Stan](https://mc-stan.org/) - Platform for statistical modeling and high-performance statistical computation.
 - [JAGS](https://mcmc-jags.sourceforge.io/) - Just Another Gibbs Sampler for Bayesian hierarchical models.
 - [WinBUGS](https://www.mrc-bsu.cam.ac.uk/software/bugs/) - Bayesian inference using Gibbs sampling.
+
+## Machine Learning & AI in Biostatistics
+
+Machine learning and artificial intelligence tools for biomedical research.
+
+- [scikit-learn](https://scikit-learn.org/) - Machine learning in Python with medical data applications.
+- [XGBoost](https://xgboost.readthedocs.io/) - Gradient boosting for clinical prediction models.
+- [LightGBM](https://lightgbm.readthedocs.io/) - Fast gradient boosting for large medical datasets.
+- [CatBoost](https://catboost.ai/) - Categorical features handling for clinical data.
+- [H2O AutoML](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html) - Automated machine learning for biostatistics.
+- [TPOT](http://epistasislab.github.io/tpot/) - Automated machine learning pipeline optimization.
+- [auto-sklearn](https://automl.github.io/auto-sklearn/) - Automated machine learning for clinical prediction.
+- [PyCaret](https://pycaret.org/) - Low-code machine learning for medical research.
+- [mlr3](https://mlr3.mlr-org.com/) - Machine learning in R with medical applications.
+- [caret](https://topepo.github.io/caret/) - Classification and regression training in R.
+- [tidymodels](https://www.tidymodels.org/) - Collection of R packages for modeling and machine learning.
+- [keras](https://keras.io/) - Deep learning for medical imaging and clinical data.
+- [PyTorch](https://pytorch.org/) - Deep learning framework for biomedical applications.
+- [TensorFlow](https://www.tensorflow.org/) - End-to-end platform for machine learning in healthcare.
+- [fastai](https://www.fast.ai/) - Deep learning library with medical imaging applications.
+- [MONAI](https://monai.io/) - Deep learning for medical imaging.
+- [nnU-Net](https://github.com/MIC-DKFZ/nnUNet) - Self-adapting framework for medical image segmentation.
+- [MedicalNet](https://github.com/Tencent/MedicalNet) - Pre-trained 3D neural networks for medical imaging.
 
 ## Genomics & Bioinformatics
 
