@@ -16,6 +16,8 @@ Biostatistics applies statistical methods to medical and biological research, wi
 - [Causal Inference](#causal-inference)
 - [Missing Data Methods](#missing-data-methods)
 - [Bayesian Biostatistics](#bayesian-biostatistics)
+- [Genomics & Bioinformatics](#genomics--bioinformatics)
+- [Pharmacometrics & PK-PD](#pharmacometrics--pk-pd)
 - [Regulatory & Guidelines](#regulatory--guidelines)
 - [Reproducible Research](#reproducible-research)
 - [Learning Resources](#learning-resources)
@@ -179,6 +181,39 @@ Bayesian methods and software for medical research.
 - [JAGS](https://mcmc-jags.sourceforge.io/) - Just Another Gibbs Sampler for Bayesian hierarchical models.
 - [WinBUGS](https://www.mrc-bsu.cam.ac.uk/software/bugs/) - Bayesian inference using Gibbs sampling.
 
+## Genomics & Bioinformatics
+
+Statistical methods for genomic and high-throughput data analysis.
+
+- [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html) - Differential gene expression analysis for RNA-seq data.
+- [edgeR](https://bioconductor.org/packages/release/bioc/html/edgeR.html) - Empirical analysis of digital gene expression data.
+- [limma](https://bioconductor.org/packages/release/bioc/html/limma.html) - Linear models for microarray and RNA-seq data.
+- [GSEA](https://www.gsea-msigdb.org/) - Gene set enrichment analysis.
+- [clusterProfiler](https://bioconductor.org/packages/release/bioc/html/clusterProfiler.html) - Statistical analysis and visualization of functional profiles.
+- [sva](https://bioconductor.org/packages/release/bioc/html/sva.html) - Surrogate variable analysis for batch effect removal.
+- [scran](https://bioconductor.org/packages/release/bioc/html/scran.html) - Single-cell RNA-seq analysis methods.
+- [Seurat](https://satijalab.org/seurat/) - R toolkit for single-cell genomics.
+- [PLINK](https://www.cog-genomics.org/plink/) - Whole genome association and population-based linkage analyses.
+- [GATK](https://gatk.broadinstitute.org/) - Genome Analysis Toolkit for variant discovery.
+- [PyDESeq2](https://github.com/owkin/PyDESeq2) - Python implementation of DESeq2.
+- [scanpy](https://scanpy.readthedocs.io/) - Python package for single-cell analysis.
+
+## Pharmacometrics & PK-PD
+
+Pharmacokinetic and pharmacodynamic modeling tools.
+
+- [NONMEM](https://www.iconplc.com/solutions/technologies/nonmem/) - Industry standard for population PK/PD modeling.
+- [nlmixr2](https://nlmixr2.org/) - Open-source population PKPD modeling in R.
+- [Monolix](https://lixoft.com/products/monolix/) - PK/PD modeling and simulation software.
+- [Phoenix WinNonlin](https://www.certara.com/software/phoenix-winnonlin/) - PK/PD and non-compartmental analysis.
+- [mrgsolve](https://mrgsolve.org/) - Simulation from ODE-based PK/PD models in R.
+- [PKPDsim](https://github.com/InsightRX/PKPDsim) - R package for PKPD simulation.
+- [PKNCA](https://CRAN.R-project.org/package=PKNCA) - Non-compartmental analysis in R.
+- [rxode2](https://nlmixr2.github.io/rxode2/) - Facilities for simulation from ODE-based models.
+- [Stan](https://mc-stan.org/) - Bayesian PKPD modeling with Stan.
+- [ADAPT](https://bmsr.usc.edu/software/adapt/) - Pharmacokinetic/pharmacodynamic systems analysis.
+- [Pmetrics](http://www.lapk.org/) - Parametric and non-parametric population modeling in R.
+
 ## Regulatory & Guidelines
 
 Standards and guidelines for biostatistical analysis.
@@ -225,6 +260,9 @@ Tools for creating reproducible biostatistical analyses.
 - [UCLA IDRE Statistics](https://stats.oarc.ucla.edu/) - Excellent tutorials on statistical software and methods.
 - [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/) - Richard McElreath's Bayesian statistics course.
 - [FDA Biostatistics Training](https://www.fda.gov/training-and-continuing-education) - Free training materials from FDA.
+- [Stanford Biostats Workshops](https://med.stanford.edu/biostatistics/workshops.html) - Free workshops on advanced biostatistical methods.
+- [MIT OpenCourseWare Statistics](https://ocw.mit.edu/courses/mathematics/) - Free MIT statistics courses.
+- [Emory Biostatistics MOOC](https://www.sph.emory.edu/academics/biostat/index.html) - Emory's biostatistics resources.
 
 ### Websites & Blogs
 
