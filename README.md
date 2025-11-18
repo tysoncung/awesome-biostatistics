@@ -19,6 +19,9 @@ Biostatistics applies statistical methods to medical and biological research, wi
 - [Machine Learning & AI in Biostatistics](#machine-learning--ai-in-biostatistics)
 - [Genomics & Bioinformatics](#genomics--bioinformatics)
 - [Pharmacometrics & PK-PD](#pharmacometrics--pk-pd)
+- [Real-World Evidence & Observational Studies](#real-world-evidence--observational-studies)
+- [Adaptive Trial Designs](#adaptive-trial-designs)
+- [Biomarker Analysis](#biomarker-analysis)
 - [Regulatory & Guidelines](#regulatory--guidelines)
 - [Reproducible Research](#reproducible-research)
 - [Learning Resources](#learning-resources)
@@ -237,6 +240,50 @@ Pharmacokinetic and pharmacodynamic modeling tools.
 - [Stan](https://mc-stan.org/) - Bayesian PKPD modeling with Stan.
 - [ADAPT](https://bmsr.usc.edu/software/adapt/) - Pharmacokinetic/pharmacodynamic systems analysis.
 - [Pmetrics](http://www.lapk.org/) - Parametric and non-parametric population modeling in R.
+
+## Real-World Evidence & Observational Studies
+
+Methods and tools for analyzing real-world data from electronic health records, claims databases, and registries.
+
+- [MatchIt](https://CRAN.R-project.org/package=MatchIt) - Nonparametric preprocessing for parametric causal inference.
+- [PSweight](https://CRAN.R-project.org/package=PSweight) - Propensity score weighting for causal inference.
+- [WeightIt](https://CRAN.R-project.org/package=WeightIt) - Weighting for covariate balance in observational studies.
+- [twang](https://CRAN.R-project.org/package=twang) - Toolkit for weighting and analysis of non-equivalent groups.
+- [Matching](https://CRAN.R-project.org/package=Matching) - Multivariate and propensity score matching.
+- [tableone](https://CRAN.R-project.org/package=tableone) - Create baseline characteristic tables for observational studies.
+- [Emulate Trial](https://CRAN.R-project.org/package=TrialEmulation) - Emulating a target trial using observational data.
+- [CohortMethod](https://ohdsi.github.io/CohortMethod/) - OHDSI package for comparative cohort studies.
+- [Sentinel System](https://www.sentinelinitiative.org/) - FDA's national electronic system for monitoring medical product safety.
+- [PCORnet](https://pcornet.org/) - National patient-centered clinical research network.
+
+## Adaptive Trial Designs
+
+Resources for flexible trial designs that allow modifications based on interim results.
+
+- [rpact](https://CRAN.R-project.org/package=rpact) - Confirmatory adaptive clinical trial design and analysis.
+- [BOIN](https://CRAN.R-project.org/package=BOIN) - Bayesian optimal interval design for dose-finding trials.
+- [dfcrm](https://CRAN.R-project.org/package=dfcrm) - Dose-finding by continual reassessment method.
+- [bcrm](https://CRAN.R-project.org/package=bcrm) - Bayesian continual reassessment method for dose-finding.
+- [basket](https://CRAN.R-project.org/package=basket) - Basket trial design and analysis.
+- [MAMS](https://CRAN.R-project.org/package=MAMS) - Multi-arm multi-stage trial design.
+- [adaptTest](https://CRAN.R-project.org/package=adaptTest) - Adaptive two-stage tests.
+- [RARfreq](https://CRAN.R-project.org/package=RARfreq) - Response-adaptive randomization for frequentist approach.
+- [FACTS](https://www.berryconsultants.com/software/) - Fixed and adaptive clinical trial simulator.
+
+## Biomarker Analysis
+
+Statistical methods for biomarker discovery, validation, and clinical utility assessment.
+
+- [survcomp](https://CRAN.R-project.org/package=survcomp) - Performance assessment and comparison for survival models.
+- [timeROC](https://CRAN.R-project.org/package=timeROC) - Time-dependent ROC curve estimation.
+- [riskRegression](https://CRAN.R-project.org/package=riskRegression) - Risk regression models for survival analysis.
+- [survAUC](https://CRAN.R-project.org/package=survAUC) - Estimators of prediction accuracy for time-to-event data.
+- [cutpointr](https://CRAN.R-project.org/package=cutpointr) - Determine optimal cutpoints for biomarkers.
+- [OptimalCutpoints](https://CRAN.R-project.org/package=OptimalCutpoints) - Optimal cutpoint estimation methods.
+- [pROC](https://CRAN.R-project.org/package=pROC) - Display and analyze ROC curves.
+- [Biomarker](https://CRAN.R-project.org/package=Biomarker) - Assess predictive accuracy of biomarkers.
+- [enrichwith](https://CRAN.R-project.org/package=enrichwith) - Methods for enriching models with information.
+- [PredictABEL](https://CRAN.R-project.org/package=PredictABEL) - Assessment of risk prediction models.
 
 ## Regulatory & Guidelines
 
