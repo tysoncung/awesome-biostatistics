@@ -289,14 +289,35 @@ Statistical methods for biomarker discovery, validation, and clinical utility as
 
 Standards and guidelines for biostatistical analysis.
 
+### Regulatory Guidance
+
 - [ICH E9](https://www.ich.org/page/efficacy-guidelines) - Statistical principles for clinical trials guideline.
+- [ICH E9(R1)](https://www.ich.org/page/efficacy-guidelines) - Addendum on estimands and sensitivity analysis.
 - [FDA Guidance Documents](https://www.fda.gov/regulatory-information/search-fda-guidance-documents) - Statistical guidance for drug and device trials.
 - [EMA Guidelines](https://www.ema.europa.eu/en/human-regulatory/research-development/scientific-guidelines/clinical-efficacy-safety/clinical-efficacy-safety-biostatistics) - European Medicines Agency biostatistics guidelines.
-- [CDISC Standards](https://www.cdisc.org/standards) - Clinical Data Interchange Standards Consortium data standards.
+- [FDA Real-World Evidence Guidance](https://www.fda.gov/science-research/science-and-research-special-topics/real-world-evidence) - Framework for regulatory decision-making.
+- [FDA Adaptive Design Guidance](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/adaptive-design-clinical-trials-drugs-and-biologics) - Guidance for adaptive clinical trial designs.
+- [21 CFR Part 11](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/part-11-electronic-records-electronic-signatures-scope-and-application) - Electronic records and signatures compliance.
+
+### Clinical Data Standards
+
+- [CDISC SDTM](https://www.cdisc.org/standards/foundational/sdtm) - Study Data Tabulation Model for regulatory submissions.
+- [CDISC ADaM](https://www.cdisc.org/standards/foundational/adam) - Analysis Data Model for statistical analysis.
+- [CDISC CDASH](https://www.cdisc.org/standards/foundational/cdash) - Clinical Data Acquisition Standards Harmonization.
+- [CDISC ODM](https://www.cdisc.org/standards/data-exchange/odm) - Operational Data Model for data exchange.
+- [HL7 FHIR](https://www.hl7.org/fhir/) - Fast Healthcare Interoperability Resources standard.
+- [OMOP Common Data Model](https://www.ohdsi.org/data-standardization/) - Standardized data structure for observational research.
+
+### Reporting Guidelines
+
 - [CONSORT Statement](http://www.consort-statement.org/) - Guidelines for reporting randomized trials.
+- [CONSORT-AI](https://www.consort-ai.org/) - Extension for clinical trials evaluating AI interventions.
 - [STROBE Statement](https://www.strobe-statement.org/) - Guidelines for reporting observational studies in epidemiology.
 - [TRIPOD Statement](https://www.tripod-statement.org/) - Transparent reporting of multivariable prediction models.
+- [TRIPOD-AI](https://www.tripod-statement.org/tripod-ai/) - Extension for prediction models using AI.
 - [SPIRIT Statement](https://www.spirit-statement.org/) - Standard protocol items for clinical trials.
+- [PRISMA Statement](http://www.prisma-statement.org/) - Preferred reporting items for systematic reviews and meta-analyses.
+- [STARD Statement](https://www.equator-network.org/reporting-guidelines/stard/) - Standards for reporting diagnostic accuracy studies.
 
 ## Reproducible Research
 
